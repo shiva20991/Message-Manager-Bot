@@ -26,7 +26,7 @@ More features coming soon!
 - `LOG_CHANNEL` A Telegram Logs Channel ID for some trace.
 
 ### Heroku Deploy:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AbirHasan2005/Message-Manager-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shiva20991/Message-Manager-Bot)
 
 ### Host Locally:
 ```shell
